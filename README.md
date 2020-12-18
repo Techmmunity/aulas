@@ -1,2 +1,3 @@
-# aulas
-Documentação do que foi aprendido nas aulas via live da Techmmunity
+# Aulas
+
+Esse repositório guarda todos os resumos das aulas via live dadas pela Techmmunity.
